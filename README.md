@@ -2,6 +2,8 @@
 
 # Projeto Mobile LabeFood: FutureEatsC
 
+#Usuário Teste - usertest@gmail.com  / Senha - 123456  (Necessário para utilizar o App)
+
 ## Desenvolvido com ❤ por:
 
 ## [<img src='https://ca.slack-edge.com/TLAVDH7C2-U03DJ8LL351-0cd31e4e353e-48'>](https://github.com/andressadarze) Andressa Urbano de Sousa Darzé 
