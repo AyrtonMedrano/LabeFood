@@ -2,7 +2,7 @@
 
 # Projeto Mobile LabeFood: FutureEatsC
 
-#Usuário Teste - usertest@gmail.com  / Senha - 123456  (Necessário para utilizar o App)
+## Usuário Teste - usertest@gmail.com  / Senha - 123456  (Necessário para utilizar o App)
 
 ## Desenvolvido com ❤ por:
 
